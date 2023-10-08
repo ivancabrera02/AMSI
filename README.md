@@ -31,6 +31,14 @@ O utilizando XOR.
 
 Esto no está mal pero la idea es poder ejecutar scripts 'maliciosos' completos.
 
+Una idea sería bajar la versión de powershell utilizando: powershell -version 2
+
+![image](https://github.com/ivancabrera02/AMSI/assets/103500562/68e79214-c511-4be0-ac7d-5cd657c546cc)
+
+![image](https://github.com/ivancabrera02/AMSI/assets/103500562/020611a3-a014-4c93-b839-3d2c3cbb0726)
+
+En la primera imagen se usa la versión 3 de powershell y como se puede apreciar se bloquea el script, en cambio en la segunda imagen usando una versión inferior se ejecuta sin problemas.
+
 
 
 ### Recursos
