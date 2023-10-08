@@ -9,3 +9,8 @@ Con el lanzamiento de Windows 10, Microsoft introdujo AMSI, una interfaz de prog
 * Windows Script Host (wscript.exe y cscript.exe)
 * JavaScript y VBScript
 * Macros de VBA de Office
+
+### Técnicas de evasión para Red Team
+
+
+![image](https://github.com/ivancabrera02/AMSI/assets/103500562/a84a620b-b4bf-40c3-adf0-87922d478b87)
