@@ -2,6 +2,11 @@
 
 Con el lanzamiento de Windows 10, Microsoft introdujo AMSI, una interfaz de programación de aplicaciones (API) que permite la detección de malware en una amplia variedad de lenguajes de programación, incluyendo PowerShell. AMSI actúa como un puente que conecta las aplicaciones con el software antivirus.
 
+Si desean profundizar más visitien https://learn.microsoft.com/es-es/windows/win32/amsi/how-amsi-helps.
+
+
+![image](https://github.com/ivancabrera02/AMSI/assets/103500562/a84a620b-b4bf-40c3-adf0-87922d478b87)
+
 ### Que detecta AMSI?
 
 * Control de cuentas de usuario o UAC (elevación de privilegios de archivos EXE, COM y MSI, o instalación de ActiveX)
@@ -12,5 +17,7 @@ Con el lanzamiento de Windows 10, Microsoft introdujo AMSI, una interfaz de prog
 
 ### Técnicas de evasión para Red Team
 
+### Recursos
 
-![image](https://github.com/ivancabrera02/AMSI/assets/103500562/a84a620b-b4bf-40c3-adf0-87922d478b87)
+* https://amsi.fail/
+* https://github.com/tokyoneon/Chimera
